@@ -1,4 +1,4 @@
 Latency
 =======
 
-Latency tool for Comcast XRE developement
+Latency tool used to measure latency to on the servers. 
